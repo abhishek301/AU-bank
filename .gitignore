@@ -1,0 +1,12 @@
+# Node backend
+AU Bank Backend/node_modules/
+AU Bank Backend/.env
+AU Bank Backend/dist/
+
+# React frontend
+AU Bank Frontend/node_modules/
+AU Bank Frontend/build/
+AU Bank Frontend/.env
+
+# Logs
+*.log
